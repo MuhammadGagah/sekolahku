@@ -24,9 +24,10 @@ Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut
 
 ### Bagaimana cara menggunakan website ini?
 
-1. silahkan lakukan git clone.
-2. buat database sekolahku, dan import table yang telah disediakan di dalam folder sekolahku.
-3. login menggunakan user dan password admin
+1. silahkan lakukan git clone
+git clone [https://github.com/MuhammadGagah/sekolahku.git](url)
+3. buat database sekolahku, dan import table yang telah disediakan di dalam folder sekolahku.
+4. login menggunakan user dan password admin
 
 ### Tentang Saya
 
