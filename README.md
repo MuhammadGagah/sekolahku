@@ -6,7 +6,7 @@ Ini merupakan tugas pemrograman web lanjut semester 5 saya di institut teknologi
 
 ### Aplikasi ini dibuat menggunakan apa saja?
 
-Website ini full menggunakan HTML, CSS, PHP dan MySQL, dan juga menggunakan bootstrap sebagai Back-End nya.
+Website ini full menggunakan HTML, CSS, PHP dan MySQL, dan juga menggunakan bootstrap sebagai Front-End nya.
 
 ### Fiturnya apa saja sih?
 
